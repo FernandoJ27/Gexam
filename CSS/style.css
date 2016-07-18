@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.icono-sm-upt {
+    padding-top: 6px;
+}
+
+.icono-lg-upt {
+    padding-top: 16px;
+}
